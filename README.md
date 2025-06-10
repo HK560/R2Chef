@@ -1,16 +1,16 @@
 # R2Chef
 
-> 😓Attention: The documentation is translated from Chinese to other languages using machine translation
+[English](./README_EN.md)
 
-A repo for collecting and organizing MOD tutorials and documentation related to Titanfall 2.
+一个用于收集整理《泰坦陨落2》 相关的MOD制作教程文档仓库。
 
-The documentation is mainly written by MOD creators from the Chinese titanfall community and translated into other languages by human/LLM models.
+其中的文档主要由中国玩家社区的MOD制作者编写，并以人工/LLM模型翻译成其他语言。
 
-Mainly collecting documentation related to **MDL Modding**
+主要收集**MDL Modding**相关的文档
 
-## Why Another Documentation Website
-In the past, we had many similar Titanfall 2 MOD documentation websites, but most of their content has become outdated or incomplete. The community needs a new series of documentation to continue developing.
+## 为什么又一个文档教程网站
+在过去我们有许多类似相关的泰坦陨落2MOD文档网站，但是这些网站的内容大部分已经过时或不完整。社区需要一系列新的文档来继续发展。
 
-For players and MOD creators in the Chinese community, these documentation websites mostly deployed on Gitbook are difficult to access, so they also need a documentation website deployed elsewhere that can be accessed normally.
+对于中国社区的玩家和MOD制作者而言，这些大部分部署在gitbook上的文档网站难以访问，因此他们也需要一个部署在其他地方能够正常访问的文档网站。
 
-Therefore, **R2Chef** was born!
+因此，**R2Chef**诞生了！
