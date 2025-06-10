@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "R2Chef"
-  text: "R2 modding docs"
-  tagline: My great project tagline
+  text: "TTF2 MOD 文档站点"
+  tagline: 爱来自泰坦陨落中文社区
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: MDL模组教程
+      link: /tutorial/mdlmodding/index
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: REPAK文档
+      link: /docs/repak
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 人物改模
+    details: 修改玩家铁驭模型，保持原骨骼比例
+  - title: 武器改模
+    details: 替换武器，修改动画
+  - title: 贴图修改
+    details: 修改游戏内的贴图
 ---
 
