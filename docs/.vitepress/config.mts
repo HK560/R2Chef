@@ -39,6 +39,8 @@ export default defineConfig({
           {
             text: '文档',
             items: [
+              { text: '注意事项', link: '/docs/tips' },
+              { text: '移植COD武器MOD', link: '/docs/modFromcod' },
               { text: 'REPAK文档', link: '/docs/repak' }
             ]
           },
