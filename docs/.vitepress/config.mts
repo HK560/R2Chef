@@ -28,9 +28,8 @@ export default defineConfig({
             items: [
               { text: '武器改模教程', link: '/tutorial/mdlmodding/weaponMod/index', 
                 items: [
-                  { text: '准备工作', link: '/tutorial/mdlmodding/weaponMod/1' },
-                  { text: '获取游戏模型', link: '/tutorial/mdlmodding/weaponMod/2' },
-
+                  // { text: '准备工作', link: '/tutorial/mdlmodding/weaponMod/1' },
+                  // { text: '获取游戏模型', link: '/tutorial/mdlmodding/weaponMod/2' },
                 ]
               },
               { text: '人物改模教程', link: '/tutorial/mdlmodding/characterMod/index' },
@@ -40,6 +39,7 @@ export default defineConfig({
             text: '文档',
             items: [
               { text: '注意事项', link: '/docs/tips' },
+              { text: '修改武器动画', link: '/docs/weaponAnimMod' },
               { text: '移植COD武器MOD', link: '/docs/modFromcod' },
               { text: 'REPAK文档', link: '/docs/repak' }
             ]
