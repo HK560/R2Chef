@@ -1,3 +1,5 @@
+
+# 资源整理
 ## TTF模组关文档链接
 1. [RETRY Titanfall 2 Custom Skin & Textures Wiki & Guides Gitbook](https://retryy.gitbook.io/tf2/) 这个很不错，里面包含贴图制作分类相关教程，值得看，比较新
 2. [NoSkill Titanfall 2 Modding Guide Gitbook](https://noskill.gitbook.io/titanfall2/) 这个算是最早的给ttf2做的mod文档了，最早我们都是看这篇来的，内容都比较基础，可以简单读一遍
