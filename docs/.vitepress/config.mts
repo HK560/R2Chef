@@ -8,7 +8,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/HK560/R2Chef' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/7342356' }
     ],
     i18nRouting: true,
   },
@@ -28,7 +29,7 @@ export default defineConfig({
             items: [
               { text: '武器改模教程', link: '/tutorial/mdlmodding/weaponMod/index', 
                 items: [
-                  // { text: '准备工作', link: '/tutorial/mdlmodding/weaponMod/1' },
+                  { text: '1.获取游戏资产文件', link: '/tutorial/mdlmodding/weaponMod/1' },
                   // { text: '获取游戏模型', link: '/tutorial/mdlmodding/weaponMod/2' },
                 ]
               },
@@ -38,10 +39,11 @@ export default defineConfig({
           {
             text: '文档',
             items: [
-              { text: '注意事项', link: '/docs/tips' },
               { text: '修改武器动画', link: '/docs/weaponAnimMod' },
+              { text: '动态皮肤(VTF)制作', link: '/docs/animTex' },
+              { text: '注意事项', link: '/docs/tips' },
+              { text: 'REPAK文档', link: '/docs/repak' },
               { text: '移植COD武器MOD', link: '/docs/modFromcod' },
-              { text: 'REPAK文档', link: '/docs/repak' }
             ]
           },
           {

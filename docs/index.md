@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "R2Chef"
   text: "TTF2 MOD 文档站点"
-  tagline: 爱来自泰坦陨落中文社区
+  tagline: 爱来自泰坦陨落中文社区，此文档还在编写完善中，欢迎加入贡献！
   actions:
     - theme: brand
       text: MDL模组教程
       link: /tutorial/mdlmodding/index
     - theme: alt
-      text: REPAK文档
-      link: /docs/repak
+      text: 工具资源
+      link: /misc/tools
 
 features:
   - title: 人物改模
