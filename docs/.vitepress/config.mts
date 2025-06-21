@@ -62,7 +62,8 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                   { text: '1.获取游戏资产文件', link: '/tutorial/mdlmodding/weaponMod/1' },
-                  // { text: '获取游戏模型', link: '/tutorial/mdlmodding/weaponMod/2' },
+                  { text: '2.获取自定义的武器模型动画', link: '/tutorial/mdlmodding/weaponMod/2' },
+                  { text: '3.处理武器骨架', link: '/tutorial/mdlmodding/weaponMod/3' },
                 ]
               },
               { text: '人物改模教程', link: '/tutorial/mdlmodding/characterMod/index' },
