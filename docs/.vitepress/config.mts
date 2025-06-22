@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "R2Chef🧑‍🍳",
+  title: "R2Chef",
   lang: "zh-CN",
   description: "泰坦陨落2 模组开发文档",
   themeConfig: {
+    logo: '/android-chrome-512x512.png',
     // https://vitepress.dev/reference/default-theme-config
     socialLinks: [
       { icon: 'github', link: 'https://github.com/HK560/R2Chef' },
