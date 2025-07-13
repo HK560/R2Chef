@@ -114,6 +114,9 @@ export default defineConfig({
   markdown: {
     image:{
       lazyLoading: true,
+    },
+    languageAlias: {
+      qc: 'json'
     }
   },
   lastUpdated: true
