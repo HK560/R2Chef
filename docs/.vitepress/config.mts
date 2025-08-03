@@ -67,6 +67,7 @@ export default defineConfig({
                   { text: '3.处理武器骨架', link: '/tutorial/mdlmodding/weaponMod/3' },
                   { text: '4.处理动画', link: '/tutorial/mdlmodding/weaponMod/4' },
                   { text: '5.导入进游戏', link: '/tutorial/mdlmodding/weaponMod/5' },
+                  { text: '6.制作贴图', link: '/tutorial/mdlmodding/weaponMod/6' },
                 ]
               },
               { text: '人物改模教程', link: '/tutorial/mdlmodding/characterMod/index' },
